@@ -15,6 +15,10 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+// Nama   : Diva Sabila Ramadhan
+// NIM    : 10119039
+// Kelas  : IF-1
+
 public class ViewpagerActivity extends AppCompatActivity {
 
     ViewPager viewPager;

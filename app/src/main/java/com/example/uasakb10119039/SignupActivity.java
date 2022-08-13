@@ -15,6 +15,10 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
+// Nama   : Diva Sabila Ramadhan
+// NIM    : 10119039
+// Kelas  : IF-1
+
 public class SignupActivity extends AppCompatActivity {
 
     private EditText inputEmail, inputPassword;
