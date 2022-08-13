@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UASAKB10119039</string>
+
+    // deskripsi untuk judul view pager
+    <string name="tittle1">Apakah Anda Ingin Mencatat List Kegiatan Anda?</string>
+    <string name="tittle2">Mencatat List Kegiatan Anda</string>
+
+    // dekripsi view pager
+    <string name="desc1">Dengan Note App anda bisa mencatat List Kegiatan Anda</string>
+    <string name="desc2">Note App berfungsi untuk mencatat kegiatan anda sehari-hari dengan mudah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
